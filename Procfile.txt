@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: heroku/java -Dnogui=true -jar JMusicBot-0.3.3.jar
+=======
+web: java -Dnogui=true -jar JMusicBot-0.3.3.jar
+>>>>>>> 92350b0d5165e47cf1738e8178a12ae2d27790f5
