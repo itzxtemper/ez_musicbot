@@ -1,3 +1,3 @@
 token = ODMxMzc4MDk0MzM3Mjk0MzU3.YHUXLw.xF86tBkfurKS0iERSEpsUJN80pA
 owner = 520157087058100225
-prefix = "^"
+prefix = "ez!"
